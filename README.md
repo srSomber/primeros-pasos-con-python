@@ -6,7 +6,7 @@ tambien estoy usando neovim como IDE, instale la config de [nvChad con este vide
 
 ## Usar comando `pip install` tiene algunos pasos extras
 - Se necesita el paquete **venv**, en mi caso se instala con `sudo apt install python3-venv`
-- Iniciar entorno virtual `python3 -m ven`
+- Iniciar entorno virtual `python3 -m venv .venv`
 - Activar entorno `source .venv/bin/activate`
 - ahora si, ejecutar `pip install <package-name>`
 
