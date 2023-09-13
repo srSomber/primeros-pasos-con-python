@@ -9,6 +9,7 @@ tambien estoy usando neovim como IDE, instale la config de [nvChad con este vide
 - Iniciar entorno virtual `python3 -m venv .venv`
 - Activar entorno `source .venv/bin/activate`
 - ahora si, ejecutar `pip install <package-name>`
+- para desactivar entorno `deactivate`
 
 ## Iniciar servidor con Flask 
 para inciar servidor en vivo => `flask --app app.py --debug run`
